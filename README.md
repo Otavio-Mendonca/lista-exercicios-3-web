@@ -1,7 +1,6 @@
 # Lista de Exercícios 3 - Desenvolvimento Web Básico
 
 **Aluno:** Otavio José de Mendonça  
-**MBA:** Gestão de Projetos - ESALQ/USP  
 **Data:** Novembro 2025
 
 ---
@@ -101,25 +100,6 @@ Se você configurar o GitHub Pages, o site ficará disponível online automatica
 - ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 - ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 - ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-
----
-
-## ✅ Checklist de Entrega
-
-- [x] Todos os 5 exercícios implementados
-- [x] Código organizado e comentado
-- [x] README com instruções claras
-- [x] Repositório público no GitHub
-- [x] Estrutura de pastas adequada
-
----
-
-## 👨‍💻 Autor
-
-**Otavio José de Mendonça**  
-MBA em Gestão de Projetos - ESALQ/USP  
-📧 [Seu e-mail]  
-🔗 [LinkedIn](https://linkedin.com/in/seu-perfil)
 
 ---
 
