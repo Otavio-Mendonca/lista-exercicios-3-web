@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Exercício 3 - Formulário de Feedback</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Formulário de Feedback</h1>
+    </header>
+
+    <main>
+        <form id="feedbackForm" action="#" method="post">
+            <div class="form-group">
+                <label for="nome">Nome Completo:</label>
+                <input type="text" id="nome" name="nome" required>
+            </div>
+
+            <div class="form-group">
+                <label for="email">E-mail:</label>
+                <input type="email" id="email" name="email" required>
+            </div>
+
+            <div class="form-group">
+                <label for="endereco">Endereço Completo:</label>
+                <textarea id="endereco" name="endereco" rows="3" required></textarea>
+            </div>
+
+            <div class="form-group">
+                <label for="tipoFeedback">Tipo de Feedback:</label>
+                <select id="tipoFeedback" name="tipoFeedback" required>
+                    <option value="">Selecione uma opção</option>
+                    <option value="sugestao">Sugestão</option>
+                    <option value="reclamacao">Reclamação</option>
+                    <option value="elogio">Elogio</option>
+                    <option value="duvida">Dúvida</option>
+                </select>
+            </div>
+
+            <div class="form-group">
+                <label for="feedback">Seu Feedback:</label>
+                <textarea id="feedback" name="feedback" rows="6" required></textarea>
+            </div>
+
+            <button type="submit">Enviar Feedback</button>
+        </form>
+    </main>
+
+    <footer>
+        <p>&copy; 2025 Otavio José de Mendonça. Todos os direitos reservados.</p>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
